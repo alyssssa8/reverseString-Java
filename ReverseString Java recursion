@@ -1,0 +1,7 @@
+// pos is the length of string
+private static void printReverse(String s, int pos){
+  if(pos >-1){
+      System.out.pring(s.charAt(pos));
+      pringReverse(s, pos - 1
+  }
+}
